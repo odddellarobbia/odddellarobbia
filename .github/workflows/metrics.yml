@@ -15,8 +15,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_order: anilist, music
-          output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_user: TheLewdNeko
           plugin_anilist_medias: anime
@@ -37,8 +35,6 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
@@ -50,8 +46,6 @@ jobs:
           filename: sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
           plugin_sponsors: yes
           plugin_sponsors_past: yes
 
@@ -64,8 +58,6 @@ jobs:
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
