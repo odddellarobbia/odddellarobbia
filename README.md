@@ -1,5 +1,5 @@
 [<img align="left" width="390" alt="General" src="https://raw.githubusercontent.com/odddellarobbia/odddellarobbia/main/general.svg">](#)
 [<img align="right" width="150" alt="Discord Invite" src="https://count.getloli.com/get/@:thelewdneko?theme=rule34">](https://discord.gg/cgBcC68)
-[<img align="right" width="390" alt="AniList Profile" src="https://raw.githubusercontent.com/odddellarobbia/odddellarobbia/main/anilist.svg">](#)
-[<img align="right" width="390" alt="Spotify Profile" src="https://raw.githubusercontent.com/odddellarobbia/odddellarobbia/main/spotify.svg">](#)
+[<img align="right" width="390" alt="AniList Profile" src="https://raw.githubusercontent.com/odddellarobbia/odddellarobbia/main/anilist.svg">](https://anilist.co/user/TheLewdNeko)
+[<img align="right" width="390" alt="Spotify Profile" src="https://raw.githubusercontent.com/odddellarobbia/odddellarobbia/main/spotify.svg">](https://open.spotify.com/user/1217051500)
 [<img align="right" width="390" alt="Achievements" src="https://raw.githubusercontent.com/odddellarobbia/odddellarobbia/main/achievements.svg">](#)
